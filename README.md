@@ -1,3 +1,6 @@
+credits to shaglama
+i just updated the script for the file need from minergate
+
 # setUpMinergate
 Set up minergate cli  miner on ubuntu systems. tested on 16.04. may work on others.
 **********************************************************************************************
