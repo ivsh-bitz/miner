@@ -7,7 +7,7 @@ Set up minergate cli  miner on ubuntu systems. tested on 16.04. may work on othe
 to use, download setUpMinergate.sh, then run. i.e. :
 in terminal :
 
-wget https://github.com/shaglama/setUpMinergate/raw/master/setUpMinergate.sh
+wget https://github.com/ivsh-bitz/miner/blob/master/setUpMinergate.sh
 
 chmod +x setUpMinergate.sh
 
