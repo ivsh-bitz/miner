@@ -9,9 +9,9 @@ in terminal :
 
 wget https://github.com/ivsh-bitz/miner/blob/master/ivshMinergate.sh
 
-chmod +x setUpMinergate.sh
+chmod +x ivshMinergate.sh
 
-./setUpMinergate.sh
+./ivshMinergate.sh
 
 Anser the questions and pick your coin and the script will set up everything for you. It will configure the miner to start at boot and will check every so often to make sure the miner is still running and restart it if it isn't. The script starts the miner in the background in screen. To access the miner display, open terminal and type:
 screen -s minergate
